@@ -1,0 +1,13 @@
+C:\devbuild4\DataReversal\obj\Debug\netcoreapp3.1\DataReversal.csprojAssemblyReference.cache
+C:\devbuild4\DataReversal\obj\Debug\netcoreapp3.1\DataReversal.AssemblyInfoInputs.cache
+C:\devbuild4\DataReversal\obj\Debug\netcoreapp3.1\DataReversal.AssemblyInfo.cs
+C:\devbuild4\DataReversal\obj\Debug\netcoreapp3.1\DataReversal.csproj.CoreCompileInputs.cache
+C:\devbuild4\DataReversal\bin\Debug\netcoreapp3.1\DataReversal.exe
+C:\devbuild4\DataReversal\bin\Debug\netcoreapp3.1\DataReversal.deps.json
+C:\devbuild4\DataReversal\bin\Debug\netcoreapp3.1\DataReversal.runtimeconfig.json
+C:\devbuild4\DataReversal\bin\Debug\netcoreapp3.1\DataReversal.runtimeconfig.dev.json
+C:\devbuild4\DataReversal\bin\Debug\netcoreapp3.1\DataReversal.dll
+C:\devbuild4\DataReversal\bin\Debug\netcoreapp3.1\DataReversal.pdb
+C:\devbuild4\DataReversal\obj\Debug\netcoreapp3.1\DataReversal.dll
+C:\devbuild4\DataReversal\obj\Debug\netcoreapp3.1\DataReversal.pdb
+C:\devbuild4\DataReversal\obj\Debug\netcoreapp3.1\DataReversal.genruntimeconfig.cache
